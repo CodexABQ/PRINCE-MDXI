@@ -22,7 +22,7 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "ℂ𝕆𝔻𝔼𝕏"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
@@ -42,17 +42,17 @@
     "CHAT_BOT": {
       "description": "Put value to 'true' to enablle for all chats or 'inbox' to ebanle in pm(inbox) chats only or 'groups' to enable in groups only else false. You can set up this later using .chatbot",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it 'true' if you want bot to view statuses. You can set up this later using .autoview",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_LIKE_STATUS": {
       "description": "Make it 'true' if you want bot to read and like statuses. You can set up this later using .autolike",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_LIKE_EMOJIS": {
       "description": "Input your custom status like emoji(s) else leave to use default emojis. Only works if autolike status is 'true'",
@@ -124,13 +124,13 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "𝐂𝐎𝐃𝐄𝐃 𝐏𝐁"
     },
     
     "PACK_NAME": {
       "description": "You can enter your sticker pack name.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗𝐈"
+      "value": "𝐂𝐎𝐃𝐄𝐗 𝐌𝐃𝐗𝐈"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
